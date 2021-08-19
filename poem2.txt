@@ -12,3 +12,5 @@ I'm in my lab, and learning git.
 It's Henry, not Henry\(OHO)
 I am home. Yeah~
 I want to go out~
+
+New Line~
